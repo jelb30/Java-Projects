@@ -18,9 +18,3 @@ This repository contains multiple **Core Java projects** that I developed over t
 **Data Structures & Algorithms** - Sorting, searching, and other fundamental algorithms.  
 **Game Implementations** - Fun projects like Tic Tac Toe, Pokerito, and Rock Paper Scissors.  
 **Real-world Applications** - Employee management, contact management, and vending machine simulation.  
-
-## Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/jelb30/Java-Projects.git
-   cd Java-Projects
